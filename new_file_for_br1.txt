@@ -1,0 +1,4 @@
+this i s my new file in branch 1
+apple
+banana
+cat
