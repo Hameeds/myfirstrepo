@@ -4,3 +4,7 @@ iron
 weapon
 laptop br2
 desk br2
+laptop br1
+desktp br1
+merge confict solved
+
