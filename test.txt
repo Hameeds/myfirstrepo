@@ -1,1 +1,4 @@
 test
+applica
+iron
+weapon
