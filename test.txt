@@ -1,4 +1,7 @@
 test
 applica
 iron
-weapon
+weapon 
+
+laptop br1
+desktp br1
