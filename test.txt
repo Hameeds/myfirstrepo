@@ -2,3 +2,5 @@ test
 applica
 iron
 weapon
+laptop br2
+desk br2
